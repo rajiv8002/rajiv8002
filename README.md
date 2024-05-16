@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajiv8002
-- 👀 I’m interested in making mistakes to learn
-- 🌱 I’m currently learning python for trading
+- 👀 I’m interested to automate boring stuff
+- 🌱 I’m currently learning ML deployment for stocks trading 
 - 💞️ I’m looking to collaborate on outperform NASDAQ / PSX market
 - 📫 How to reach me is email on rajiv.pardhan@gmail.com
 - 😄 Pronouns: He/Him/His
